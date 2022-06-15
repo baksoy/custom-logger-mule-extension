@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>f44e2e05-4803-4777-a378-2ff7f7738e4f</groupId>
     <artifactId>custom-logger-mule-extension</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>mule-extension</packaging>
 
     <name>Custom Logger Mule Extension</name>
